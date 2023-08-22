@@ -7,7 +7,7 @@ import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyD94EszsDpMP7OUBCgoal3_EX_YOiZGcwY",
-  authDomain: "keyrentsale.firebaseapp.com",
+  authDomain: "test1-topaz-eight.vercel.app",
   projectId: "keyrentsale",
   storageBucket: "keyrentsale.appspot.com",
   messagingSenderId: "684791475821",
